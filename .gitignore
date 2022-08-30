@@ -1,4 +1,2 @@
-
-2._DataFormatTranslations/node/node_modules/
-
-2._DataFormatTranslations/python/__pycache__/
+node_modules/
+__pycache__/
